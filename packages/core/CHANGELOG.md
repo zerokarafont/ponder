@@ -1,5 +1,11 @@
 # ponder
 
+## 0.11.7
+
+### Patch Changes
+
+- [#1629](https://github.com/ponder-sh/ponder/pull/1629) [`074a138`](https://github.com/ponder-sh/ponder/commit/074a13829091f286e951a1f88bb2cfb33120fcea) Thanks [@khaidarkairbek](https://github.com/khaidarkairbek)! - Introduced the feature of specifying factory block range independent from source block range.
+
 ## 0.11.6
 
 ### Patch Changes
